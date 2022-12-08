@@ -1,11 +1,13 @@
 # ENVECON-118-SP23
 ## EEP 118 Applied Econometrics
 
-This is the Datahub folder for all Spring 2023 EEP/IAS 118 Applied Econometrics resources.
+This is the Public Repo for course materials for Environmental Economics and Policy 118 - Econometrics 
 
 Instructor: Sofia Villas-Boas
 
 GSIs: Sara Johns and Seung Yong Sung
+
+Semester: Spring 23
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ENVECON-118-SP23/main)
 
