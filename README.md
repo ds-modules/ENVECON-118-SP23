@@ -3,7 +3,7 @@
 
 This is the Datahub folder for all Spring 2023 EEP/IAS 118 Applied Econometrics resources.
 
-Instructor:
+Instructor: Sofia Villas-Boas
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ENVECON-118-SP23/main)
 
