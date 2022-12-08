@@ -1,2 +1,2 @@
-# ENVECON118-FA22
+# ENVECON-118-SP23
 EEP 118 Applied Econometrics
