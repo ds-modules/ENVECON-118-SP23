@@ -7,6 +7,8 @@ Instructor: Sofia Villas-Boas
 
 GSIs: Sara Johns and Seung Yong Sung
 
+Reader:  Rajdev Kaur Brar.
+
 Semester: Spring 23
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/ENVECON-118-SP23/main)
