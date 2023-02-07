@@ -1,0 +1,1 @@
+this folder contains the data and notebook to replicate the analysis in Lecture 7 using the MIT lab election dataset.
