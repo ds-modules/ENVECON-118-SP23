@@ -1,1 +1,6 @@
 code and data for Lecture 16  gender discrimination in wages
+please correct the number of female=1 and female=0 to be
+
+mydata %>% count(female)               
+
+not the way it is currently in the notebook
