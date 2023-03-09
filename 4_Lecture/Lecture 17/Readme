@@ -1,0 +1,23 @@
+Code and two data sets to replicate the analysis in Lecture 17
+RECAP lecture 16 and 17 - for international's Women Day
+Lecture 16:
+
+average wage men = 7.1 average wage women=4.6 difference=2.5 dollars different average wages
+
+on average women earn 25% less than men
+
+looking at the distribution, missing for women mass in the 20-40 $ an hour range
+
+wages are lower for women even after controlling for education, experience, sector of activity, and union participation. Results are Very robust
+
+Did not show but could show by interacting female and HS, female and Col dummies that the wage differential between men and women is at all levels of education, but largest difference is for college education level
+
+Lecture 17:
+
+From 1978 to 85 real wages dropped.
+
+Females earn less than men in 1978 and the real wage gap decreased, in that in 1985 women earn less 2.15 dollars/ hour in real wages, whereas in 85 they earned 3 dollars less
+
+Not shown with data but, over time, 1996-2006, there is not real change at all for wages for men (coeff on yr2006) but a decline for real wages for women of 1.33 dollars.
+
+Interesting to see what is happening in 2016/ and 2019 even…
