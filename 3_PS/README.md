@@ -1,2 +1,1 @@
-This folder will contain Jupyter Notebooks of all our problem sets.
-We strongly recommend you first create a separate copy of the provided .ipynb, in order to keep a copy of the blank PS. Then change the name of the copied file by adding "_FirstName_LastName" and work on the copied file.
+This folder contains Jupyter Notebooks for all our problem sets. We highly advise that you initially make a separate copy of the provided .ipynb file to preserve an original blank version. After copying, rename the file by appending "_FirstName_LastName" to it, and then proceed to work on this renamed copy.
