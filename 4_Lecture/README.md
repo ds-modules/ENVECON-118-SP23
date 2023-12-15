@@ -1,1 +1,1 @@
-This folder contains all demonstration notebooks for lectures.
+This folder contains all demonstration notebooks from lectures.
